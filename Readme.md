@@ -21,7 +21,3 @@ OR just browse using your favorite browser.
 # menu items
 /restaurant/menu/
 /restaurant/menu/{menuItemId}
-
-# table booking 
-/restaurant/booking/tables/
-/restaurant/booking/tables/{bookingId}
